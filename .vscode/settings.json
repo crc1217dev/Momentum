@@ -1,0 +1,6 @@
+{
+  "materialTheme.accent": "Blue",
+  "editor.tokenColorCustomizations": {
+    "types": "#FF0000"
+  }
+}
